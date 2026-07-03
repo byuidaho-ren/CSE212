@@ -1,0 +1,15 @@
+/home/nielsoffice/Desktop/BYUI/CSE212/week01/teach/bin/Debug/net8.0/teach
+/home/nielsoffice/Desktop/BYUI/CSE212/week01/teach/bin/Debug/net8.0/teach.deps.json
+/home/nielsoffice/Desktop/BYUI/CSE212/week01/teach/bin/Debug/net8.0/teach.runtimeconfig.json
+/home/nielsoffice/Desktop/BYUI/CSE212/week01/teach/bin/Debug/net8.0/teach.dll
+/home/nielsoffice/Desktop/BYUI/CSE212/week01/teach/bin/Debug/net8.0/teach.pdb
+/home/nielsoffice/Desktop/BYUI/CSE212/week01/teach/obj/Debug/net8.0/teach.GeneratedMSBuildEditorConfig.editorconfig
+/home/nielsoffice/Desktop/BYUI/CSE212/week01/teach/obj/Debug/net8.0/teach.AssemblyInfoInputs.cache
+/home/nielsoffice/Desktop/BYUI/CSE212/week01/teach/obj/Debug/net8.0/teach.AssemblyInfo.cs
+/home/nielsoffice/Desktop/BYUI/CSE212/week01/teach/obj/Debug/net8.0/teach.csproj.CoreCompileInputs.cache
+/home/nielsoffice/Desktop/BYUI/CSE212/week01/teach/obj/Debug/net8.0/teach.sourcelink.json
+/home/nielsoffice/Desktop/BYUI/CSE212/week01/teach/obj/Debug/net8.0/teach.dll
+/home/nielsoffice/Desktop/BYUI/CSE212/week01/teach/obj/Debug/net8.0/refint/teach.dll
+/home/nielsoffice/Desktop/BYUI/CSE212/week01/teach/obj/Debug/net8.0/teach.pdb
+/home/nielsoffice/Desktop/BYUI/CSE212/week01/teach/obj/Debug/net8.0/teach.genruntimeconfig.cache
+/home/nielsoffice/Desktop/BYUI/CSE212/week01/teach/obj/Debug/net8.0/ref/teach.dll
